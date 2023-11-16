@@ -16,7 +16,7 @@ import { RouterLink } from 'vue-router';
                         <router-link to="/" class="btn btn-ghost">Home</router-link>
                     </li>
                     <li>
-                        <router-link to="/" class="btn btn-ghost">About</router-link>
+                        <router-link to="/about" class="btn btn-ghost">About</router-link>
                     </li>
                 </ul>
             </div>
